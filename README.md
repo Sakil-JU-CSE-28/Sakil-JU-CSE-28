@@ -1,20 +1,20 @@
 # Hi there, I'm Sakil Ahmed! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sakil-ahmed-289523198/)
-[![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://github.com/Sakil-JU-CSE-28)
 
-I am a dedicated software engineer actively seeking new opportunities to apply my skills in software development, computer networks, and Android development. My background in competitive programming and passion for problem-solving drive my ambition to contribute to innovative projects.
+I am an aspiring software engineer with a strong foundation in computer science, actively seeking opportunities to kickstart my career in software development. My experience in competitive programming, coupled with my passion for problem-solving, drives me to constantly learn and grow in this field.
 
 ## 🚀 About Me
 - 🎓 Recent graduate in Computer Science and Engineering from Jahangirnagar University (JU).
-- 💼 Actively seeking a software engineering role, specializing in Java and full-stack web development.
+- 💼 Aspiring software engineer, eager to apply my skills in Java and full-stack web development to real-world projects.
 - 🌱 Currently enhancing my expertise in machine learning, focusing on climate impact on crop disease spread.
 - 🏆 Experienced in competitive programming, having solved over 2500 problems and participated in ICPC and NCPC contests.
-- 📚 Continually expanding my knowledge, with a focus on mastering SQL and software design patterns for technical interviews.
+- 📚 Played the role of an instructor, guiding freshmen in learning C/C++ programming and introducing them to competitive programming.
+- 🤝 Active member of the **Computer Club, JU**, and **Badhon**, a blood donation organization.
 
 ## 🔧 Technologies & Tools
-- **Languages**: Java, Python, C++, SQL, JavaScript
+- **Languages**: Java, Python, C++, SQL
 - **Frameworks & Tools**: Android, MVC Architecture, Git, Android Studio, VS Code, IntelliJ IDEA
 - **Database**: MySQL
 - **Other Skills**: API integration, Object-Oriented Design, Software Testing
@@ -24,15 +24,23 @@ I am a dedicated software engineer actively seeking new opportunities to apply m
 - **Machine Learning Research**: Analyzed the impact of climate on crop disease spread using machine learning techniques.
 - **AI-Enhanced GitHub Bot**: Currently integrating AI capabilities into a GitHub bot to streamline automation processes.
 
-## 💼 Open to New Opportunities
-I am currently exploring software engineering roles where I can leverage my technical skills and passion for developing innovative solutions. I am particularly interested in positions that offer opportunities for growth and involve challenging projects in Java development, full-stack development, or machine learning.
+## 🏆 Competitive Programming
+- **ICPC Participation**: Participated in [JU !201](https://icpc.global/regionals/finder/Dhaka-2024/standings) and gained valuable experience in solving complex problems under pressure.
+- **NCPC Contests**: Engaged in the [JU Gravitas](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) and showcased strong problem-solving skills.
+- **Problem-Solving Profiles**:
+  - **LeetCode**: [Sakil Ahmed](https://leetcode.com/u/sakil_ahmed_390/)
+  - **StopStalk**: [sakil_ju](https://www.stopstalk.com/user/profile/sakil_ju)
+
+## 💼 Open to Opportunities
+I am currently looking for entry-level software engineering roles where I can apply my technical skills, dedication, and passion for learning. I am enthusiastic about roles that involve challenging projects in Java development, full-stack development, or machine learning.
+
+## 📈 GitHub Stats
+![Sakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakil-JU-CSE-28&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
+If you're interested in collaborating or have an exciting opportunity, feel free to reach out!
 - **LinkedIn**: [Sakil Ahmed](https://www.linkedin.com/in/sakil-ahmed-289523198/)
 - **Email**: sakil390.28@gmail.com
-- **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)
-
-If you are looking for a motivated software engineer with a strong foundation in programming, problem-solving, and project development, I would love to connect!
 
 ---
 
