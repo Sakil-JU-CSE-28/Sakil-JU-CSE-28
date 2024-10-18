@@ -25,8 +25,8 @@ I am an aspiring software engineer with a strong foundation in computer science,
 - **AI-Enhanced GitHub Bot**: Currently integrating AI capabilities into a GitHub bot to streamline automation processes.
 
 ## 🏆 Competitive Programming
-- **ICPC Participation**: Participated in [JU !201](https://icpc.global/regionals/finder/Dhaka-2024/standings) and gained valuable experience in solving complex problems under pressure.
-- **NCPC Contests**: Engaged in the [JU Gravitas](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) and showcased strong problem-solving skills.
+- **ICPC Participation**: Participated in ICPC Regional Dhaka [Team : JU !201](https://icpc.global/regionals/finder/Dhaka-2024/standings) and gained valuable experience in solving complex problems under pressure.
+- **NCPC Contests**: Engaged in the National Programming Contest [Team: JU Gravitas](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings) and showcased strong problem-solving skills.
 - **Problem-Solving Profiles**:
   - **LeetCode**: [Sakil Ahmed](https://leetcode.com/u/sakil_ahmed_390/)
   - **StopStalk**: [sakil_ju](https://www.stopstalk.com/user/profile/sakil_ju)
