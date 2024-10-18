@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sakil-ahmed-289523198/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://github.com/Sakil-JU-CSE-28)
 
+
 I am an aspiring software engineer with a strong foundation in computer science, actively seeking opportunities to kickstart my career in software development. My experience in competitive programming, coupled with my passion for problem-solving, drives me to constantly learn and grow in this field.
 
 ## 🚀 About Me
@@ -41,6 +42,8 @@ I am currently looking for entry-level software engineering roles where I can ap
 If you're interested in collaborating or have an exciting opportunity, feel free to reach out!
 - **LinkedIn**: [Sakil Ahmed](https://www.linkedin.com/in/sakil-ahmed-289523198/)
 - **Email**: sakil390.28@gmail.com
+- **Resume**: [Resume_SakilAhmed.pdf](https://github.com/user-attachments/files/17426697/Resume_SakilAhmed.pdf)
+
 
 ---
 
