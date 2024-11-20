@@ -15,15 +15,15 @@ I am an aspiring software engineer with a strong foundation in computer science,
 - 🤝 Active member of the **Computer Club, JU**, and **Badhon**, a blood donation organization.
 
 ## 🔧 Technologies & Tools
-- **Languages**: Java, Python, C++, SQL
-- **Frameworks & Tools**: Android, MVC Architecture, Git, Android Studio, VS Code, IntelliJ IDEA
+- **Languages**: C/C++,Java, Python, JavaScript, SQL
+- **Development**: Android with Java, Web with Python 
 - **Database**: MySQL
-- **Other Skills**: API integration, Object-Oriented Design, Software Testing
+- **Other Skills**: Data Structure, Alogorithm, Object Oriented Programming, Software Engineering, Computer Networking
 
 ## 📂 Featured Projects
-- **[Dhaka Metro Rail](https://github.com/your-username/dhaka-metro-rail)**: Developed an Android application to provide real-time updates and navigation for the Dhaka Metro Rail system.
-- **Machine Learning Research**: Analyzed the impact of climate on crop disease spread using machine learning techniques.
-- **AI-Enhanced GitHub Bot**: Currently integrating AI capabilities into a GitHub bot to streamline automation processes.
+- **[Android Project: Dhaka Metro Rail](https://github.com/your-username/dhaka-metro-rail)**: Developed an Android application to provide real-time updates and navigation for the Dhaka Metro Rail system.
+- **Machine Learning Research**: Working on Weed detection and Classification in rice field 
+- **[Networking Project: Network Monitoring System](https://github.com/Sakil-JU-CSE-28/Network-Security-Monitor)**: Live capturing the packet and analyze them for detecting potential issues. 
 
 ## 🏆 Competitive Programming
 - **ICPC Participation**: Participated in ICPC Regional Dhaka [Team : JU !201](https://icpc.global/regionals/finder/Dhaka-2024/standings) and gained valuable experience in solving complex problems under pressure.
