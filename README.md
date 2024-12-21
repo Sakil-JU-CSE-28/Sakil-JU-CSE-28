@@ -9,7 +9,7 @@ I am a Junior Software Engineer at Dynamic Solution Innovators, driven by a pass
 ## 🚀 About Me  
 
 - 🎓 **Recent graduate** in Computer Science and Engineering from Jahangirnagar University (JU).  
-- 💼 **Junior Software Engineer** at [Dynamic Solution Innovators](https://www.dynamicsolution.com/), passionate about solving complex problems and building scalable software solutions.  
+- 💼 **Junior Software Engineer** at [Dynamic Solution Innovators](https://www.dsinnovators.com/), passionate about solving complex problems and building scalable software solutions.  
 - 🌱 **Lifelong learner**, currently enhancing my expertise in machine learning with a focus on the climate's impact on crop disease spread.  
 - 🏆 **Competitive programming enthusiast**, with over 2500 problems solved and participation in ICPC and NCPC contests.  
 - 📚 **Mentor and instructor**, having guided freshmen in learning C/C++ programming and introduced them to competitive programming.  
