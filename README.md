@@ -4,15 +4,17 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://github.com/Sakil-JU-CSE-28)
 
 
-I am an aspiring software engineer with a strong foundation in computer science, actively seeking opportunities to kickstart my career in software development. My experience in competitive programming, coupled with my passion for problem-solving, drives me to constantly learn and grow in this field.
+I am a Junior Software Engineer at Dynamic Solution Innovators, driven by a passion for solving complex problems using Java, competitive programming, and building scalable software solutions.
 
-## 🚀 About Me
-- 🎓 Recent graduate in Computer Science and Engineering from Jahangirnagar University (JU).
-- 💼 Aspiring software engineer, eager to apply my skills in Java and full-stack web development to real-world projects.
-- 🌱 Currently enhancing my expertise in machine learning, focusing on climate impact on crop disease spread.
-- 🏆 Experienced in competitive programming, having solved over 2500 problems and participated in ICPC and NCPC contests.
-- 📚 Played the role of an instructor, guiding freshmen in learning C/C++ programming and introducing them to competitive programming.
-- 🤝 Active member of the **Computer Club, JU**, and **Badhon**, a blood donation organization.
+## 🚀 About Me  
+
+- 🎓 **Recent graduate** in Computer Science and Engineering from Jahangirnagar University (JU).  
+- 💼 **Junior Software Engineer** at [Dynamic Solution Innovators](https://www.dynamicsolution.com/), passionate about solving complex problems and building scalable software solutions.  
+- 🌱 **Lifelong learner**, currently enhancing my expertise in machine learning with a focus on the climate's impact on crop disease spread.  
+- 🏆 **Competitive programming enthusiast**, with over 2500 problems solved and participation in ICPC and NCPC contests.  
+- 📚 **Mentor and instructor**, having guided freshmen in learning C/C++ programming and introduced them to competitive programming.  
+- 🤝 **Community member**, actively contributing to the **Computer Club, JU**, and **Badhon**, a blood donation organization.  
+
 
 ## 🔧 Technologies & Tools
 - **Languages**: C/C++,Java, Python, JavaScript, SQL
@@ -32,9 +34,6 @@ I am an aspiring software engineer with a strong foundation in computer science,
   - **LeetCode**: [Sakil Ahmed](https://leetcode.com/u/sakil_ahmed_390/)
   - **StopStalk**: [sakil_ju](https://www.stopstalk.com/user/profile/sakil_ju)
 
-## 💼 Open to Opportunities
-I am currently looking for entry-level software engineering roles where I can apply my technical skills, dedication, and passion for learning. I am enthusiastic about roles that involve challenging projects in Java development, full-stack development, or machine learning.
-
 ## 📈 GitHub Stats
 ![Sakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sakil-JU-CSE-28&show_icons=true&theme=radical)
 
@@ -42,7 +41,6 @@ I am currently looking for entry-level software engineering roles where I can ap
 If you're interested in collaborating or have an exciting opportunity, feel free to reach out!
 - **LinkedIn**: [Sakil Ahmed](https://www.linkedin.com/in/sakil-ahmed-289523198/)
 - **Email**: sakil390.28@gmail.com
-- **Resume**: [Resume_SakilAhmed.pdf](https://github.com/user-attachments/files/17426697/Resume_SakilAhmed.pdf)
 
 
 ---
